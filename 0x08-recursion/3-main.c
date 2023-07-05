@@ -10,7 +10,7 @@ int main(void)
 {
     int r;
 
-    r = factorial(19);
+    r = factorial9;
     printf("%d\n", r);
     r = factorial(5);
     printf("%d\n", r);
